@@ -2,3 +2,4 @@ line 1
 line 2 from main
 line 2.5 from main
 line 3 from feature
+line 4 from feature
